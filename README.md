@@ -10,10 +10,6 @@ Data cleaning is a critical step in data analysis and machine learning pipelines
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 📊 Datasets Used
 
 ### 1️⃣ `clv_data.csv`
