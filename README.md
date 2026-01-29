@@ -101,7 +101,7 @@ By completing this project, one will learn how to:
 - Apply Pandas functions commonly used in real-world data cleaning
 
 # 📌Author
-Abhishek Chakraborty - Aspiring Data Analyst | Power BI | SQL | Excel
+**Abhishek Chakraborty** - Aspiring Data Analyst | Power BI | SQL | Excel
 
-📧 Email: abhishekchakraborty22@yahoo.com
-🔗 GitHub: https://github.com/abhishek22631
+- 📧 Email: abhishekchakraborty22@yahoo.com
+- 🔗 GitHub: https://github.com/abhishek22631
